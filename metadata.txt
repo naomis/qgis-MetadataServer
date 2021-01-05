@@ -1,0 +1,26 @@
+[general]
+name=MetadataServer
+qgisMinimumVersion=3
+description=This is a plugin for QGIS MapServer to get metadata from layers
+version=version 1.0
+author=Patrick Chapuis (Naomis)
+email=p.chapuis@naomis.fr
+; if True it's a server plugin
+server=True
+
+changelog=
+
+
+tags=metadata, server
+
+tracker=https://github.com/naomis/qgis-MetadataServer
+homepage=https://github.com/naomis/qgis-MetadataServer
+repository=https://github.com/naomis/qgis-MetadataServer
+
+category=server
+
+experimental=False
+
+about=This plugin retrieves simple metadata from the layers of the QGIS Project at the source of the service, see https://github.com/naomis/qgis-MetadataServer/blob/master/README.rst
+
+
