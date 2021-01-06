@@ -4,8 +4,8 @@
 ***************************************************************************
     Metadata.py
     ---------------------
-    Date                 : January 2020
-    Copyright            : (C) 2020 by Patrick Chapuis
+    Date                 : January 2021
+    Copyright            : (C) 2021 by Patrick Chapuis
     Email                : p.chapuis at naomis dot fr
 ***************************************************************************
 *                                                                         *
@@ -18,8 +18,8 @@
 """
 
 __author__ = 'Patrick Chapuis'
-__date__ = 'January 2020'
-__copyright__ = '(C) 2020, Patrick Chapuis - Naomis'
+__date__ = 'January 2021'
+__copyright__ = '(C) 2021, Patrick Chapuis - Naomis'
 
 
 from qgis.server import QgsService
